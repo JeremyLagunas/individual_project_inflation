@@ -19,8 +19,8 @@ The purpose of this project is to look at different economic indicators to deter
 - Unemployment Rate: The percentage of the labor force that does not have a job. 
 - Personal Savings Rate: The percentage of income that the population deducts from their personal disposable income in order to save it. 
 - M1 Money Supply: Cash and checking deposits.
-- M2 Money Supply: Includes M1 and items considered "near money". "Near Money" includes savings deposits, money market scurities, and time deposits less than $100,000.
+- M2 Money Supply: Includes M1 and items considered "near money". "Near Money" includes savings deposits, money market securities, and time deposits less than $100,000.
 - Consumer Price Index (CPI): A weighted average of prices for a basket of goods and services. It is meant to represent the aggregate of U.S. consumer spending and it is calculated by the Bureau of Labor Statistics.
-- CPI Rate: The rate of change of CPI when comapared to the same month in the previous year.
+- CPI Rate: The rate of change of CPI when compared to the same month in the previous year.
 - CPI Less Food and Energy: A measure of CPI without taking into account food and energy costs which tend to be more volatile than most other categories. 
 - Total Monetary Base: The total amount of currency that is either in circulation or in commercial bank deposits. 
