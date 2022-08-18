@@ -1,7 +1,7 @@
 # Individual Project - Rising Consumer Prices
 
 ## Project Description:
-    The purpose of this project is to look at different economic indicators to determine whether there are certain indicators which have a relationship with rising consumer prices. My target variables during this project will be the CPI (Consumer Price Index) and the CPI Rate of Change. 
+The purpose of this project is to look at different economic indicators to determine whether there are certain indicators which have a relationship with rising consumer prices. My target variables during this project will be the CPI (Consumer Price Index) and the CPI Rate of Change. 
 
 ## Project Goals:
 - Determine which indicators, if any, have a significant relationship with CPI and CPI rate. 
